@@ -1,3 +1,4 @@
+
 # Survivng from Zombies FPS
 깃허브로 처음 만드는 포트폴리오
 
@@ -15,4 +16,5 @@
 
 ## * 조작
 
+![5](https://user-images.githubusercontent.com/87008330/124760911-2da23800-df6c-11eb-85db-395c8e6a25cd.PNG)
 
