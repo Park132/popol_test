@@ -13,6 +13,6 @@
 ## * 개발 후기
 ![4](https://user-images.githubusercontent.com/87008330/124742287-84514700-df57-11eb-887b-5f17b4539a85.PNG)
 
-
+## * 조작
 
 
